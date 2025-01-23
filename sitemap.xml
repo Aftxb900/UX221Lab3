@@ -22,11 +22,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/my-angle/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/13-2/
         </loc>
     </url>
