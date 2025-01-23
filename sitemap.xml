@@ -7,11 +7,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/m-angle/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
         </loc>
     </url>
